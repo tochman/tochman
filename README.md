@@ -1,4 +1,4 @@
-### Thomass Ochman 
+### Thomas Ochman 
 ![](https://img.shields.io/badge/Craft%20Academy-Coach-orange)
 
 **Thomas Ochman's worktitle is "Developer Of Software And People". He's the founder of Craft Academy, a Web developer Bootcamp based in Sweden and he spends most of his days talking about Software Craftsmanship and coaching students how to build applications. **
